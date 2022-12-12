@@ -1,5 +1,5 @@
 code
-colorls
+ruby-colorls
 rm-improved
 xcp
 zoxide
@@ -13,6 +13,7 @@ topgrade
 broot
 tokei
 
+mkinitcpio-firmware
 autojump
 google-chrome
 bridge-utils
